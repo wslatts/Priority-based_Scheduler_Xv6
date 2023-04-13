@@ -2,7 +2,7 @@
  *  ps.c
  *
  *  Wendy Slattery
- *  COP4610 - Proj 3
+ *  Operating Systems - Proj 3
  *  11/10/20
  *
  *  user app to implement sys call showpc which shows
