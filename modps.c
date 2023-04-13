@@ -2,7 +2,7 @@
  *  modps.c
  *
  *  Wendy Slattery
- *  COP 4610 - Priority Scheduler
+ *  Operating Systems - Priority Scheduler
  *  11/11/20
  *
  *  user app to create processes and display initial default values at 50
